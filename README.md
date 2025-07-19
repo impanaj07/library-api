@@ -11,8 +11,8 @@ A simple Django REST API for managing a book library, including endpoints for cr
 - SQLite for development
 
 ## 📸 Screenshot
+<img src="screenshots/booklist.png" alt="Book List API View" width="100%">
 
-![Book List API View](library_api\screenshots\booklist.png)
 
 
 ## 📂 Project Structure

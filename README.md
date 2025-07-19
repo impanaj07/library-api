@@ -12,7 +12,7 @@ A simple Django REST API for managing a book library, including endpoints for cr
 
 ## 📸 Screenshot
 
-![Book List API View](screenshots/booklist.png)
+![Book List API View](library_api\screenshots\booklist.png)
 
 
 ## 📂 Project Structure
